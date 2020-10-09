@@ -1,0 +1,172 @@
+.top-container {
+  background-color: #cbf9ba;
+  /* height:735px; */
+  text-align: center;
+  padding-top: 60px;
+}
+
+.middle-container {
+  text-align: center;
+  background-color: #ddf1d6;
+  margin-top: 100px;
+}
+.bottom-container {
+  height: 100px;
+  background-color: #7fcc82;
+  padding-top: 30px;
+  font-size: 12px;
+}
+.footer-link {
+  margin-left: 15px;
+  text-decoration: none;
+  color: #5a5a57ee;
+}
+.copyrights {
+  color: #5a5a57ee;
+}
+
+.cloud1 {
+  margin-left: 60%;
+  position: relative;
+}
+
+.cloud2 {
+  margin-right: 60%;
+  position: relative;
+}
+
+.cloud3 {
+  position: absolute;
+}
+.contact {
+    text-align: center;
+    width: 40%;
+    margin-left: 30%;
+    margin-bottom: 80px;
+}
+.button {
+  background-color: #69bd52;
+  font-size: 18px;
+  padding: 10px 25px;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  border: none;
+  margin-top: 20px;
+  transition-duration: 0.4s;
+}
+.button:hover {
+  background-color: green;
+  cursor: pointer;
+
+}
+
+#madonna {
+  height: 200px;
+  margin-top: 30px;
+}
+
+#bio {
+  font-size: 18px;
+}
+
+#preface {
+  font-family: 'Sacramento',cursive;
+  font-size: 40px;
+  color:#7fcc82;
+}
+
+#cube {
+  height: 120px;
+  width: 25%;
+  float: left;
+  margin-top: 6%;
+}
+
+#cube2 {
+  height: 100px;
+  width: 25%;
+  float: right;
+  margin-top: 6%;
+}
+
+#profile {
+  float: left;
+  margin: auto 30%;
+
+}
+#profile2 {
+    float: right;
+    margin: auto 30%;
+}
+
+#topic1 {
+  text-align: right;
+  color: #5a5a57ee;
+
+}
+
+#topic2 {
+  text-align: left;
+  color: #5a5a57ee;
+}
+#topic3 {
+  text-align: center;
+  color: #5a5a57ee;
+}
+
+#about {
+  text-align: right;
+  width: 65%;
+  margin-right: 0%;
+  margin-left: 35%;
+  /* color: #647962d6; */
+
+}
+#about2 {
+  text-align: left;
+  width: 65%;
+  margin-right: 35%;
+  margin-left: 0%;
+  /* color: #647962d6; */
+
+}
+#about3 {
+  text-align: center;
+    /* width: 65%; */
+  /* margin-right: 35%;
+  margin-left: 0%; */
+  /* color: #647962d6; */
+}
+
+h1 {
+  color:#7abd67;
+  font-family:  'Sacramento', cursive;
+  font-size: 85px;
+  font-weight: bold;
+  margin-top: 0px;
+}
+
+h3 {
+  font-family:  'Sacramento', cursive;
+  font-size: 20px;
+
+}
+
+p {
+  line-height: 2;
+
+}
+
+body {
+  margin: 0px;
+  font-family: sans-serif;
+  background-color: #ddf1d6;
+}
+
+hr {
+  border: dotted #c8d4c3 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
