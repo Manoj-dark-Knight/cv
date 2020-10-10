@@ -47,18 +47,25 @@
 .button {
   background-color: #69bd52;
   font-size: 18px;
-  padding: 10px 25px;
+  padding: 12px 27px;
   color: white;
   text-decoration: none;
   border-radius: 6px;
   border: none;
   margin-top: 20px;
   transition-duration: 0.4s;
+  font-family: sans-serif;
 }
 .button:hover {
   background-color: green;
   cursor: pointer;
 
+}
+
+.profilecontent {
+  padding: 50px 200px 100px 200px;
+  font-family: cursive;
+  color: #5a5a57ee;
 }
 
 #madonna {
@@ -68,6 +75,8 @@
 
 #bio {
   font-size: 18px;
+  padding: 0px 90px;
+  font-family: 'Sacramento',cursive;
 }
 
 #preface {
@@ -155,6 +164,7 @@ h3 {
 
 p {
   line-height: 2;
+  font-family: 'Sacramento',cursive;
 
 }
 
